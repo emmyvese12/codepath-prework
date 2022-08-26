@@ -1,14 +1,10 @@
-## Hello App
+## Hello Button App
 
 ### App Description
-`TODO://` The app contains a label and three buttons with functionalities to change the label color, background color, and text when the user taps on it.
+The app contains a text label and three buttons with functionalities to change the label color, background color, and text when the user taps on each one.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="http://g.recordit.co/Ad6domysUs.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
