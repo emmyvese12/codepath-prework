@@ -3,7 +3,7 @@
 ### App Description
 The app contains a text label and three buttons with functionalities to change the label color, background color, and text when the user taps on each one.
 
-### App Walk-though
+### App Walk-through
 <img src="http://g.recordit.co/Ad6domysUs.gif" width=200><br>
 
 ### Required User Stories
