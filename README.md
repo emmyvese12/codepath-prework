@@ -4,7 +4,7 @@
 The app contains a text label and three buttons with functionalities to change the label color, background color, and text when the user taps on each one.
 
 ### App Walk-through
-<img src="http://g.recordit.co/nntEaQZGQy.gif" width=200><br>
+<img src="http://g.recordit.co/xjUwLiTgHO.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
